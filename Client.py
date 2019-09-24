@@ -14,6 +14,7 @@ def Start():
 	except Exception as e:
 		print(e)
 		print("Verbindung nicht möglich...\nServer offline oder falsche IP/Port")
+		print("iuabd")
 
 
 def Nachricht_Senden(Nachricht, Empfänger):
